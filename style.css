@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header img{
+    width: 350px;
+}
+.women-jacket img{
+    width:100%
+}
+.green-images img{
+    width:100%
+}
+.orange-color{
+    color:orange;
+}
+.women-section img{
+    width: 300px;
+}
+.women-card{
+    border: none !important;
+}
+.penguain-card-footer{
+    border: none !important;
+}
+
+.shopping-list img{
+    width: 90px;;
+}
+.shopping-cart img{
+    width:100%
+}
